@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={Beach} className="header-image" alt="beach" />
-        Aylin's Lashes
+        Aylin's Lashes Coming Soon!
       </header>
     </div>
   );
