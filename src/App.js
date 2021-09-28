@@ -1,12 +1,12 @@
 import React from "react";
-import logo from "./logo.svg";
+import Beach from "./images/beachBackground.jpg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={Beach} className="header-image" alt="beach" />
         Aylin's Lashes
       </header>
     </div>
